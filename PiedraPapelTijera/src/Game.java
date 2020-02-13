@@ -12,12 +12,12 @@ public class Game {
 	}
 
 	private void welcome() {
-		System.out.println("Bienvenido a nuestro peque√±o juego: Piedra Papel Tijeras :-D");
+		System.out.println("Bienvenido a nuestro pequeÒo juego: Piedra Papel Tijeras :-D");
 	}
 
 	private void printHelp() {
 		System.out.println("");
-		System.out.println("Ordenes y comandos v√°lidos para el juego: ");
+		System.out.println("Ordenes y comandos v·lidos para el juego: ");
 		parser.showCommands();
 	}
 
